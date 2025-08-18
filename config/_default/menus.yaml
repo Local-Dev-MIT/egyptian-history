@@ -4,6 +4,6 @@ leftnav:
   pageRef: /pages/tutankhamen
   weight: 10
 - identifier: e93820a3-66a6-4928-b9a7-96c434a4ec6a
-  name: Pyramids
-  pageRef: /pages/pyramids
+  name: Pyramids Inscriptions Mathematics
+  pageRef: /pages/pyramids-inscriptions-mathematics
   weight: 20
