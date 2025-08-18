@@ -4,6 +4,6 @@ leftnav:
   pageRef: /pages/tutankhamen
   weight: 10
 - identifier: e93820a3-66a6-4928-b9a7-96c434a4ec6a
-  name: Girls
-  pageRef: /pages/unknown
+  name: Pyramids
+  pageRef: /pages/pyramids
   weight: 20
