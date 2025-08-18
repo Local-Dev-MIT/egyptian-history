@@ -1,0 +1,27 @@
+{
+  "term": "Spring",
+  "year": "2025",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "egyptian-history"
+  },
+  "course_image": {
+    "content": "",
+    "website": "egyptian-history"
+  },
+  "course_title": "On egypt",
+  "hide_download": false,
+  "mit_learn_topics": [],
+  "course_description": "About egypt in the sandy desert",
+  "department_numbers": [],
+  "extra_course_numbers": "",
+  "primary_course_number": "EGY100",
+  "learning_resource_types": [],
+  "site_uid": "044e0134-d81a-4c9c-aa26-4c8901dedd2d",
+  "site_short_id": "egyptian-history"
+}
