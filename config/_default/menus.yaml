@@ -7,3 +7,7 @@ leftnav:
   name: Pyramids
   pageRef: /pages/pyramids
   weight: 20
+- identifier: f53b32fd-46fd-489c-8fde-8f1e3b509d88
+  name: Not exist
+  pageRef: /pages/nowhere
+  weight: 30
