@@ -5,4 +5,4 @@ draft: false
 title: Tutankhamen
 uid: 601c56ad-d3d1-4713-8fa0-fec112adfacb
 ---
-This is about the boy king of egypt.
+This is about the boy king of egypt, who ascended to the throne as a new-born
