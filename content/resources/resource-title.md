@@ -11,7 +11,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: Resource Title
+title: Non gdrive resourcce
 uid: 53893d90-3bcb-4b56-8664-986ee22ea4c4
 video_files:
   archive_url: ''
