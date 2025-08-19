@@ -2,7 +2,7 @@
 content_type: resource
 draft: false
 file: null
-file_size: ''
+file_size: null
 file_type: ''
 image_metadata:
   caption: ''
@@ -16,13 +16,13 @@ uid: 53893d90-3bcb-4b56-8664-986ee22ea4c4
 video_files:
   archive_url: ''
   video_captions_file: ''
-  video_thumbnail_file: ''
+  video_thumbnail_file: https://img.youtube.com/vi/Z04fILiucSc/default.jpg
   video_transcript_file: ''
 video_metadata:
-  source: ''
+  source: youtube
   video_speakers: ''
   video_tags: ''
   youtube_description: ''
-  youtube_id: ''
+  youtube_id: Z04fILiucSc
 ---
 This is a new resource
