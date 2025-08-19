@@ -19,7 +19,3 @@ Some code 
 x =4
 y = 4
 ```
-
- 
-
-Anf this is the end of the world is it<sup>2</sup> and yeah holler baby<sub>none</sub>
