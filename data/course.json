@@ -1,6 +1,6 @@
 {
   "term": "Spring",
-  "year": "2025",
+  "year": "2026",
   "level": [
     "Undergraduate"
   ],
@@ -23,5 +23,6 @@
   "primary_course_number": "EGY100",
   "learning_resource_types": [],
   "site_uid": "044e0134-d81a-4c9c-aa26-4c8901dedd2d",
-  "site_short_id": "egyptian-history"
+  "site_short_id": "egyptian-history",
+  "site_url_path": "courses/egy100-on-egypt-spring-2025"
 }
